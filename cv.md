@@ -1,6 +1,6 @@
  
- <p align="center">
-  <img src="me.jpg" alt="me" width="400"/>
+ <p align="left">
+  <img src="me.jpg" alt="me" width="600"/>
 </p>
 
  # Ildar Sadikov
